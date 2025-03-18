@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noor Ahmed</h1>
 <h3 align="center">Fullstack Developer | Agentic AI Engineer</h3>
 
-<img align="right" alt="coding" width="200" src="https://www.unite.ai/wp-content/uploads/2023/11/DALL%C2%B7E-2023-11-12-13.06.04-Create-an-anime-style-illustration-of-a-half-human-half-robot-character-engaged-in-coding.-The-human-side-should-be-an-anime-character-of-East-Asian-.png"/>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=noorahmed786&label=Profile%20views&color=0e75b6&style=flat" alt="noorahmed786" /> 
 </p>
