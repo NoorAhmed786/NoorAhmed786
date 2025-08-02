@@ -16,14 +16,14 @@ I'm an AI developer transitioning into the world of DevOps. With a strong founda
 - 🔧 Fullstack Development (Spring Boot, Next.js, MySQL)
 - 🤖 AI + Agentic Workflow Engineering
 - ☁️ DevOps (Docker, GitHub Actions, Kubernetes)
-- 📱 Mobile (Kotlin + Jetpack Compose)
+- 📱 Mobile (JAVA Android App)
 
 ---
 
 ### 🌱 Currently Learning
 - 🌐 Web 3.0 & Decentralized Apps
 - 🛠️ Docker + Kubernetes + AWS
-- 📲 Android Development with Kotlin
+- 📲 Android Development with Java
 
 ---
 
