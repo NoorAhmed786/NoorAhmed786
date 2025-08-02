@@ -1,82 +1,83 @@
-<h1 align="center">👋 Hi, I'm Noor Ahmed</h1>
-<h3 align="center">🚀 Fullstack Developer | 🤖 Agentic AI Engineer | 🔧 DevOps Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Noor Ahmed</h1>
+<h3 align="center">💻 Fullstack Developer | 🤖 Agentic AI Engineer | ☁️ DevOps Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5C258D&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+Thymeleaf+Expert;Agentic+AI+Developer+%F0%9F%A4%96;Scalable+Systems+with+DevOps;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+DevOps+Enthusiast;Spring+Boot+%7C+Next.js+%7C+Node.js;Building+smart+automated+systems+💡;Lifelong+learner+🌱" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📌 About Me
-I'm a passionate developer who bridges AI, web development, and DevOps.  
-I specialize in building **intelligent software** and **automated systems** that are scalable, secure, and smart.
+### 🚀 About Me
+I'm an AI developer transitioning into the world of DevOps. With a strong foundation in machine learning, automation, and backend systems, I'm now diving deeper into **cloud technologies**, **CI/CD pipelines**, and **infrastructure as code**.
 
 ---
 
-### 🔭 What I'm Working On
-- 🌐 Building Fullstack Projects with **Spring Boot + React**
-- 🤖 Developing Agentic AI systems with **LangChain, OpenAI, FastAPI**
-- 🧱 Learning Docker, Kubernetes, GitHub Actions (CI/CD)
-- 📱 Android Dev with **Jetpack Compose** & Kotlin
+### 🎯 Current Focus
+- 🔧 Fullstack Development (Spring Boot, Next.js, MySQL)
+- 🤖 AI + Agentic Workflow Engineering
+- ☁️ DevOps (Docker, GitHub Actions, Kubernetes)
+- 📱 Mobile (Kotlin + Jetpack Compose)
+
+---
+
+### 🌱 Currently Learning
+- 🌐 Web 3.0 & Decentralized Apps
+- 🛠️ Docker + Kubernetes + AWS
+- 📲 Android Development with Kotlin
+
+---
+
+### 💬 Ask Me About
+- ⚙️ Java / Spring Boot
+- 🔁 REST APIs / Microservices
+- 🧠 ML Ops / Prompt Engineering
+- 🗃️ SQL / MS SQL / MySQL
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noor%20Ahmed-blue?logo=linkedin)](https://www.linkedin.com/in/noor-ahmed-2980b122a/)
+[![Gmail](https://img.shields.io/badge/Gmail-aniiahmed380@gmail.com-red?logo=gmail)](mailto:aniiahmed380@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-CharmingNoor-purple?logo=instagram)](https://www.instagram.com/chrmingnoor786/)
+[![Facebook](https://img.shields.io/badge/Facebook-CharmingNoor-blue?logo=facebook)](https://www.facebook.com/chrmingnoorahmed)
 
 ---
 
 ### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,thymeleaf,react,js,ts,python,fastapi,nodejs,mysql,mongodb,git,github,docker,kubernetes,aws,postman,figma,html,css,tailwind" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noorahmed786&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorahmed786&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
-<p align="center">
-  <a href="mailto:aniiahmed380@gmail.com"><img src="https://img.shields.io/badge/Email-aniiahmed380@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/noor-ahmed-2980b122a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Noor_Ahmed-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://www.instagram.com/chrmingnoor786/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Charming_Noor-purple?style=for-the-badge&logo=instagram"/></a>
-</p>
+### 🧠 Fun Fact
+> "I don't just build apps... I automate workflows, optimize pipelines, and scale intelligence."
 
 ---
 
-### 🧠 Featured Project: **The Noor Residency**
-> 🏨 A Hotel Management System with admin & customer dashboard  
-> 🔧 Built using Spring Boot, Thymeleaf, MySQL  
-> 📋 Features: Room Booking, Login/Auth, Role-based Access, Admin Panel  
-> 🎯 Status: Completed and hosted locally
+### 🎬 Want to collaborate?
 
-📌 Repo: [🔗 Click to View on GitHub](https://github.com/noorahmed786/the-noor-residency)
+If you're working on projects involving **AI**, **automation**, or **cloud-native apps**, feel free to reach out — I'm always open to cool tech collabs!
 
 ---
 
-### 🧩 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorahmed786&theme=react" alt="Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=noorahmed786&show_icons=true&theme=react" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorahmed786&layout=compact&theme=react" alt="Top Languages" />
-</p>
-
----
-
-### 📁 Project Gallery
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🏨 **The Noor Residency** | Hotel Management App | Spring Boot, Thymeleaf, MySQL |
-| 🤖 AI Visa Bot | Appointment Automation + OCR CAPTCHA Solver | Python, Selenium, PaddleOCR |
-| 🐾 CatCode Studio | AI Cat Animation Shorts (YouTube) | GenAI, Storyboarding, Text2Image |
-| 📊 R Shiny App | Data Dashboard for Biochem Research | R, Shiny, Plotly, Bootstrap |
-| 📦 POSM Tracking App | Android App for Field Deployment | Java, Node.js, MySQL |
-
----
-
-### ⚡ Fun Snippet
-```java
-public class Passion {
-    public static void main(String[] args) {
-        while(true) {
-            code();
-            learn();
-            build();
-        }
-    }
-}
+### 🔗 Bonus: My Favorite Quote
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
